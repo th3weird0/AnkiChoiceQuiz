@@ -1,10 +1,8 @@
 # AnkiChoiceQuiz 🍱
 
-一个基于 
+一个基于 **[Anki]([https://github.com/ankitects/anki])** 的
 
-[Anki]: https://github.com/ankitects/anki	"Anki's Github Page"
-
-~~深度定制的~~Ai Vibe出来的交互式多选题系统。它将传统的“翻面记忆”逻辑重构为“点击-提交-反馈”的刷题体验，并适配了thepeacemonk/Onigiri界面。
+~~深度定制~~Ai Vibe出来的交互式多选题系统。它将传统的“翻面记忆”逻辑重构为“点击-提交-反馈”的刷题体验，并适配了[thepeacemonk/Onigiri](https://github.com/thepeacemonk/Onigiri)界面。
 
 ## ✒️ 致谢与声明 (Credits)
 
@@ -23,13 +21,19 @@
 
 ## 🚀 快速开始 (Quick Start)
 
-下载本仓库的压缩包后，请按照以下步骤进行部署：
+提供了两个版本：  **OnlyQuiz.7z** 和 **OnigiriStyleQuiz.7z**
+
+**OnlyQuiz.7z**             - 不安装Onigiri也可以用，只是看起来比较单调。
+
+**OnigiriStyleQuiz.7z**     - 最好配合Onigiri使用，因为引入了一些透明的元素。
+
+下载本仓库的压缩包后，选择好你的版本后，请按照以下步骤进行部署：
 
 ### 1. 环境准备
 
 * **安装 Anki**：确保你的电脑已安装最新版的 [Anki Desktop](https://apps.ankiweb.net/)。
 * **基础配置**：首次运行请完成 Anki 的基础设置（如语言选择、账号同步等）。
-* **安装插件**：必须先安装 [Onigiri 插件](https://github.com/thepeacemonk/Onigiri) 才能获得高颜值看板效果。如果没装插件只有单纯的题库交互功能。
+* **安装插件**：如果决定使用 **OnigiriStyleQuiz.7z** 最好先安装 [Onigiri 插件](https://github.com/thepeacemonk/Onigiri) 才能获得高颜值看板效果。如果没装插件只有单纯的题库交互功能。
 
 ### 2. 解压与部署 (具体步骤)
 
