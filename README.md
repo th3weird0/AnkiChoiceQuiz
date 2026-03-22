@@ -1,6 +1,6 @@
 # AnkiChoiceQuiz 🍱
 
-English Users please read this one;) [README-EN](https://github.com/th3weird0/AnkiChoiceQuiz/blob/main/README.md)
+English Users please read this one;) [README-EN](https://github.com/th3weird0/AnkiChoiceQuiz/blob/main/README-EN.md)
 
 一个基于 **[Anki]([https://github.com/ankitects/anki])** 的
 
