@@ -87,4 +87,4 @@
 - **非商业性使用 (NC)**：严禁将此模板或配套题库用于任何商业盈利目的。
 - **相同方式共享 (SA)**：基于此项目的二次开发必须以相同协议开源。
 
-*注：本项目使用的底层框架 Onigiri 遵循其原有的 [GPL-3.0 license](https://github.com/thepeacemonk/Onigiri?tab=GPL-3.0-1-ov-file#GPL-3.0-1-ov-file) 开源协议。*
+*注：本项目使用的 Onigiri, Anki, 香萃等粗宋 遵循其原有的开源协议。*
