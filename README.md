@@ -1,5 +1,7 @@
 # AnkiChoiceQuiz 🍱
 
+English Users please read this one;) [README-EN](https://github.com/th3weird0/AnkiChoiceQuiz/blob/main/README.md)
+
 一个基于 **[Anki]([https://github.com/ankitects/anki])** 的
 
 ~~深度定制~~Ai Vibe出来的交互式多选题系统。它将传统的“翻面记忆”逻辑重构为“点击-提交-反馈”的刷题体验，并适配了[thepeacemonk/Onigiri](https://github.com/thepeacemonk/Onigiri)界面。
