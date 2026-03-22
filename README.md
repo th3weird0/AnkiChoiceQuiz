@@ -3,11 +3,13 @@
 一个基于 **[Anki]([https://github.com/ankitects/anki])** 的
 
 ~~深度定制~~Ai Vibe出来的交互式多选题系统。它将传统的“翻面记忆”逻辑重构为“点击-提交-反馈”的刷题体验，并适配了[thepeacemonk/Onigiri](https://github.com/thepeacemonk/Onigiri)界面。
+
 <img width="1477" height="897" alt="5aaa46f778517f2d9821444ac433dff7" src="https://github.com/user-attachments/assets/00248215-0da0-4a24-b859-c60568dbdca0" />
 <img width="1476" height="799" alt="e77adb9893380d27f12d754d2299f12e" src="https://github.com/user-attachments/assets/a8f98d90-e2a8-45a2-bb4b-9cf0d3b68bf4" />
 <img width="1476" height="799" alt="2b11e40f3055e329c9e2c6d979f7be1f" src="https://github.com/user-attachments/assets/b251fdc2-6b0a-456a-950a-5c2bbbd7d39f" />
 <img width="1476" height="856" alt="2c3ade0a4a7b7e97b6ec5d5e2622a0ea" src="https://github.com/user-attachments/assets/af99223e-d98a-46cb-bb36-1ddf03f089f5" />
 
+*本质自用。欢迎PR。Issue已知是在我的电脑里有的时候studying界面会闪烁，懒得管了。反正功能能用=。=*
 
 ## ✒️ 致谢与声明 (Credits)
 
