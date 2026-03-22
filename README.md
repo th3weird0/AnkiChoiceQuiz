@@ -33,7 +33,7 @@
 
 **OnlyQuiz.7z**             - 不安装Onigiri也可以用，只是看起来比较单调。
 
-**OnigiriStyleQuiz.7z**     - 最好配合Onigiri使用，因为引入了一些透明的元素。中文建议使用字体：**[香萃等粗宋](https://github.com/Miiiller/Xiangcui-Dengcusong)**
+**OnigiriStyleQuiz.7z**     - 最好配合Onigiri使用，因为引入了一些透明的元素。中文建议使用字体：**[香萃等粗宋](https://github.com/Miiiller/Xiangcui-Dengcusong)**（使用须遵守该仓库协议。）
 
 
 下载本仓库的压缩包后，选择好你的版本后，请按照以下步骤进行部署：
